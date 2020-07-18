@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm s computer science student, 
+I'm a computer science student, 
 very focused on mobile and java technologies. Sometime i play soccer 😄
 
 - 🌱 I’m currently learning java and kotlin
