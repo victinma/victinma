@@ -2,7 +2,7 @@
 ### Victor Macário Brito
 ### Hi there 👋
 
-I'm a computer science student, currently on 6º period
+I'm a computer science student, currently on 6º period and <br>
 very focused on mobile and java technologies.
 
 - 🌱 I’m currently learning java and kotlin
