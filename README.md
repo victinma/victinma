@@ -5,7 +5,7 @@
 I'm a computer science student, currently on 6º period <br> 
 and very focused on mobile and java technologies.
 
-- 🌱 I’m currently learning java and kotlin
+- 🌱 I’m currently learning java and javascript
 - 📫 How to reach me: Follow me at twitter or instagram
 - 😄 Sometime i play soccer
 
